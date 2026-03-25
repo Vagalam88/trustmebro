@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TMB Color Palette -->
+    <color name="tmb_background">#0A0E14</color>
+    <color name="tmb_surface">#111820</color>
+    <color name="tmb_surface_variant">#1A2332</color>
+    <color name="tmb_accent">#00FF88</color>
+    <color name="tmb_accent_dim">#00CC66</color>
+    <color name="tmb_danger">#FF4444</color>
+    <color name="tmb_warning">#FFBB00</color>
+    <color name="tmb_info">#00AAFF</color>
+    <color name="tmb_on_background">#E0E8F0</color>
+    <color name="tmb_on_surface">#CCD6E0</color>
+    <color name="tmb_subtle">#4A6080</color>
+    <color name="tmb_border">#1E2D3D</color>
+
+    <!-- Status bar / system UI -->
+    <color name="status_bar_color">#0A0E14</color>
+</resources>

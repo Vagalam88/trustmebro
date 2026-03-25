@@ -1,0 +1,44 @@
+# ─── Android / Gradle ───
+*.iml
+.gradle/
+.kotlin/
+build/
+app/build/
+local.properties
+*.log
+
+# ─── Android Studio / IntelliJ IDEA ───
+.idea/
+*.iws
+*.ipr
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+output.json
+
+# ─── APK / AAB / Signing ───
+*.apk
+*.aab
+*.ap_
+*.jks
+*.keystore
+release/
+
+# ─── OS junk ───
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# ─── Kotlin ───
+*.kotlin_module
+
+# ─── Misc ───
+*.hprof
+*.dex
+*.class
+gen/
+bin/
+out/
+proguard/

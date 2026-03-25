@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TrustMeBro</string>
+    <string name="app_tagline">Don\'t trust. Verify.</string>
+
+    <!-- File types -->
+    <string name="file_type_apk">Fichier APK</string>
+    <string name="file_type_signature">Signature PGP</string>
+    <string name="file_type_signed_checksum">Somme de contrôle signée</string>
+    <string name="file_type_public_key">Clé publique PGP</string>
+    <string name="file_type_checksum">Fichier de hachage</string>
+    <string name="file_type_unknown">Fichier inconnu</string>
+
+    <!-- Actions -->
+    <string name="action_pick_files">Sélectionner des fichiers</string>
+    <string name="action_add_files">+ Ajouter des fichiers</string>
+    <string name="action_clear_all">Tout effacer</string>
+    <string name="action_verify">Lancer la vérification</string>
+    <string name="action_verify_running">Vérification en cours...</string>
+
+    <!-- Status -->
+    <string name="status_match">✓ VALIDE</string>
+    <string name="status_mismatch">✗ INVALIDE</string>
+    <string name="status_info">— INFO</string>
+
+    <!-- Results -->
+    <string name="result_all_ok">✓ Tout vérifié — fichier authentique</string>
+    <string name="result_failed">⚠ Vérification échouée — NE PAS FAIRE CONFIANCE</string>
+    <string name="result_partial">⚠ Vérification partielle — clé publique manquante ?</string>
+    <string name="result_analysis_done">📋 Analyse terminée</string>
+
+    <!-- Empty state -->
+    <string name="empty_pick_prompt">Appuyez pour sélectionner des fichiers</string>
+    <string name="empty_pick_hint">APK, signature PGP, fichier de hachage, clé publique</string>
+
+    <!-- Manual hash -->
+    <string name="manual_hash_label">Hash attendu (optionnel — coller depuis GitHub)</string>
+    <string name="manual_hash_placeholder">ex: a1b2c3d4e5f6...</string>
+
+    <!-- Sections -->
+    <string name="section_hashes">Empreintes cryptographiques</string>
+    <string name="section_pgp">Signatures PGP</string>
+    <string name="section_apk_cert">Certificat de signature APK</string>
+    <string name="section_errors">Erreurs</string>
+
+    <!-- Capabilities -->
+    <string name="cap_checksum">✓ Vérification hachage</string>
+    <string name="cap_pgp">✓ Vérification PGP</string>
+    <string name="cap_apk">📦 Certificat APK</string>
+    <string name="cap_key">🔑 Clé publique fournie</string>
+    <string name="cap_no_apk">⚠ Ajoutez un APK pour commencer</string>
+</resources>
