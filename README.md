@@ -25,7 +25,7 @@ You download an APK from GitHub. The dev provides a `SHA256SUM.asc`, a `.sign` f
 ## Features
 
 ### #️⃣ Checksum Verification
-Real hash computation using `java.security.MessageDigest`. Streams large files (100MB+ APKs) in chunks without eating your RAM. Supports **SHA-256**, **SHA-512**, **SHA-1**, and **MD5**.
+Real hash computation using `java.security.MessageDigest`. Streams large files (100MB+ APKs) in chunks without eating your RAM. Supports **SHA-256**.
 
 - Auto-parses `SHA256SUMS`, `.sha256`, and any `hash  filename` format
 - Handles PGP cleartext signed checksum files (extracts the body)
