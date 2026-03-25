@@ -17,8 +17,9 @@ An Android app that verifies the integrity and authenticity of APK files downloa
 You download an APK from GitHub. The dev provides a `SHA256SUM.asc`, a `.sign` file, maybe a public key. Now what? Open a terminal? Install GPG? Nah.
 
 **Drop everything into TrustMeBro. One tap. Done.**
-<img width="1080" height="2269" alt="Screenshot_001" src="https://github.com/user-attachments/assets/5591fe95-2e42-430a-8786-cb7854379870" />
-<img width="1080" height="2278" alt="Screenshot_002" src="https://github.com/user-attachments/assets/5de1a4c3-85f6-403e-bf46-93bb7937f63d" />
+
+<img width="270" height="567" alt="Screenshot_001" src="https://github.com/user-attachments/assets/5591fe95-2e42-430a-8786-cb7854379870" />
+<img width="270" height="567" alt="Screenshot_002" src="https://github.com/user-attachments/assets/5de1a4c3-85f6-403e-bf46-93bb7937f63d" />
 
 ---
 
